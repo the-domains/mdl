@@ -1,0 +1,28 @@
+name: MDL
+favicon: null
+layout_spectrum: 0.1184657181147486
+typography_spectrum: 0.7260812351014465
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1507515402045101
+  lightness: 0.0704003213904798
+  saturation: 0.15142924338579178
+  rhythmicContrast: 0.27022476331330836
+purpose: []
